@@ -2,6 +2,8 @@
 
 Sistem Informasi Manajemen Rumah Sakit berbasis web untuk RS Cepat Sembuh Bandar Lampung. Memungkinkan pasien mendaftar online dan petugas rumah sakit mengelola alur penanganan pasien.
 
+test push
+
 ## Fitur
 
 - **Landing Page** — Informasi rumah sakit dan layanan
@@ -66,12 +68,12 @@ Buka `http://localhost:8000`
 
 ## Akun Default
 
-| Role        | Employee ID    | Password  |
-|-------------|---------------|-----------|
-| Admin       | `ADM-001`     | `password` |
-| Dokter      | `DR-UMUM-001` | `password` |
-| Dokter      | `DR-DALAM-001`| `password` |
-| Apoteker    | `APO-001`     | `password` |
+| Role     | Employee ID    | Password   |
+| -------- | -------------- | ---------- |
+| Admin    | `ADM-001`      | `password` |
+| Dokter   | `DR-UMUM-001`  | `password` |
+| Dokter   | `DR-DALAM-001` | `password` |
+| Apoteker | `APO-001`      | `password` |
 
 ## Lisensi
 
