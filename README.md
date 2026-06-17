@@ -2,8 +2,6 @@
 
 Sistem Informasi Manajemen Rumah Sakit berbasis web untuk RS Cepat Sembuh Bandar Lampung. Memungkinkan pasien mendaftar online dan petugas rumah sakit mengelola alur penanganan pasien.
 
-test push
-
 ## Fitur
 
 - **Landing Page** — Informasi rumah sakit dan layanan
@@ -17,6 +15,8 @@ test push
 - **Cek Riwayat** — Pasien dapat mengecek riwayat berobat berdasarkan NIK
 
 ## Tech Stack
+
+jfgjhg
 
 - **Backend:** Laravel 13, PHP 8.4
 - **Database:** MySQL
